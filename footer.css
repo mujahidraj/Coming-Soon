@@ -1,0 +1,34 @@
+.footer{
+    font-family: "Raleway", sans-serif;
+    display:flex;
+    flex-direction: column;
+ 
+    
+    padding-left: 24px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 24px;
+    justify-content: end;
+    
+    
+    
+    
+    
+}
+
+.footer-text{
+    font-size: 13px;
+    font-weight: 300;
+    color: white;
+    position: fixed;
+    bottom: 10px;
+    
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: blue;
+}
