@@ -1,0 +1,50 @@
+body{
+    background-image: url(forestbridge.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+    color: white;
+    
+}
+
+
+
+.main-div{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    flex-wrap: nowrap;
+    justify-content:space-between;
+    align-items:center;
+    font-weight: 400;
+    top: 50%;
+    left: 50%;
+    position: absolute ;
+    transform: translate(-50%,-50%);
+    
+    
+}
+
+.coming-soon{
+    font-family: "Raleway", sans-serif ;
+    font-size: 64px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+    
+}
+.line{
+    border-top: solid;
+    border-color:#c6afaf;
+    width: 40%;
+    border-width: 1px;
+}
+.days-text{
+    font-family: "Raleway", sans-serif ;
+    font-size: 18px;
+    margin-top: 18px;
+    margin-bottom: 18px;    
+}
+
